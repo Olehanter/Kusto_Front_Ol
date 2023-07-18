@@ -1,0 +1,34 @@
+$withContainer:880px;
+
+
+
+
+.heder{
+    display: flex;
+    justify-content: space-between;
+    width: $withContainer;
+    // margin-top: 20px;
+    // margin-bottom: 20px;
+    // padding-top: 20px;
+    color: white;
+    border: 1px solid #545454;
+
+    .heder__logo {
+        background-image: url("../../img/logo/logo.svg");
+        width: 142px;
+        height: 33px;
+        background-size: 142px 33px;
+        color: white;
+    }
+}
+
+// width: 880px
+// height: 74px
+// top: 45px
+// left: 200px
+// border: 1px
+
+// width: 142px
+// height: 33px
+// top: 45px
+// left: 200px

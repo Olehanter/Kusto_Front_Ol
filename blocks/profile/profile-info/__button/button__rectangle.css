@@ -1,0 +1,13 @@
+.button__rectangle {
+    background: #FFFFFF;
+    width: 24px;
+    height: 24px;
+    border: 1px solid #FFFFFF;
+    position: absolute;
+}
+/* 
+width: 24px
+height: 24px
+top: 196px
+left: 662px
+border: 1px */

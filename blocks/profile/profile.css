@@ -1,0 +1,12 @@
+.profile{
+    width: 880px;
+    height: 120px;
+    margin: 0 auto;
+    border-width: 0px, 0px, 0px, 0px;
+    border-style: solid;
+    border-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

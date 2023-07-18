@@ -1,0 +1,14 @@
+.heder__logo {
+    background-image: url("../../../img/logo/logo.svg");
+    width: 142px;
+    height: 33px;
+    background-size: 142px 33px;
+    color: white;
+    top: 45px
+left: 200px
+}
+
+/* width: 142px
+height: 33px
+top: 45px
+left: 200px */
