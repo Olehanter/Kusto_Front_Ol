@@ -1,0 +1,17 @@
+.footer{
+    color:#545454;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    width: 880px;
+    border-bottom: 1px solid #545454;
+    margin: 0 auto;
+    padding:50px 0;
+}
+@media screen  and (max-width:320px){
+    .footer{
+        width: 282px;
+        padding:30px 0;
+    } 
+}
